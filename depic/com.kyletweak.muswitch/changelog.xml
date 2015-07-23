@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.3.2</version>
+		<change>Added support for 64 bit</change>
+	</changes>
+</changelog>
