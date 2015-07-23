@@ -7,6 +7,9 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
+		<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>Add music controls in the app switcher.</description>
 	</descriptionlist>
@@ -24,6 +27,5 @@
 			<name>Reddit</name>
 			<url>https://www.reddit.com/u/KTweak</url>
 		</link>
-		
 	</links>
 </package>
