@@ -1,0 +1,9 @@
+Origin: KyleTweak’s Repo
+Label: KyleTweak’s Repo
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: This is a repository for testing applications in alpha, beta and pre-release phases.
+MD5Sum:

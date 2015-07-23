@@ -1,0 +1,13 @@
+Package: com.kyletweakrepo.muswitch
+Version: 1.3.3
+Section: Tweaks
+Maintainer: KyleTweak <kyletweak@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.kyletweakrepo.muswitch.deb
+Size: 54596
+MD5sum: 0a25659492d9d3ab1cde21e29842f8e3
+Description: Muswitch adds music controls to the app switcher.
+Name: Muswitch
+Author: KyleTweak <kyletweak@gmail.com>
+Depiction: http://kyletweak.github.io/repo/depic/com.kyletweakrepo.muswitch/index.html
