@@ -1,9 +1,9 @@
-Origin: KyleTweak’s Repo
-Label: KyleTweak’s Repo
+Origin: Decimation's Repo
+Label: Decimation's Repo
 Suite: stable
 Version: 1.0
-Codename: KyleTweak
+Codename: Decimation
 Architectures: iphoneos-arm
 Components: main
-Description: KyleTweak’s Repo
-MS5Sum:
+Description: Decimation's Repo
+MD5Sum:

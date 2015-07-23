@@ -1,25 +1,32 @@
 <package>
-	<id>com.kyletweakrepo.muswitch</id>
-	<name>Full Package</name>
-	<version>1.3.2</version>
-	<compatibility>
-		<firmware>
-			<miniOS>7.0</miniOS>
-		</firmware>
-	</compatibility>
-		<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<descriptionlist>
-		<description>Add music controls in the app switcher.</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>Muswitch</description>
-			<image>muswitch3.jpg</image>
-		</screenshot>			
-	</screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
+    <id>com.kyletweakrepo.muswitch</id>
+    <name>Full Package</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+    <descriptionlist>
+        <description>Music Controls in the app switcher.</description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Muswitch</description>
+            <image>muswitch3.jpg</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>Repackage and reupload by KyleTweak</change>
+    </changelog>
+    <links>
+        <link>
+            <name>Reddit</name>
+            <url>https://www.reddit.com/u/KTweak</url>
+        </link>
+    
+    </links>
 </package>
